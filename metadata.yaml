@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '38790'
     url: http://www.gutenberg.org/2009/agents/38790
 description: 'Translation of: Daphnis and Chloe'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37352#---------------
 gutenberg_issued: '2011-09-08'
 gutenberg_type: Text
 identifiers:
