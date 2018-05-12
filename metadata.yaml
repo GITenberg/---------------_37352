@@ -1,0 +1,42 @@
+_repo: '---------------_37352'
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Voutierides, El. P.‏   (Elias P.)
+    aliases:
+    - Voutieridis, Ilias
+    - Boutierides, Elias P.
+    - Βουτιερίδης, Ηλίας
+    - Voutierides, Elias P.
+    birthdate: 1874
+    deathdate: 1941
+    gutenberg_agent_id: '38791'
+    url: http://www.gutenberg.org/2009/agents/38791
+    wikipedia: http://el.wikipedia.org/wiki/Ηλίας_Βουτιερίδης
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Longus
+    aliases:
+    - Longos
+    - Λόγγος
+    gutenberg_agent_id: '38790'
+    url: http://www.gutenberg.org/2009/agents/38790
+description: 'Translation of: Daphnis and Chloe'
+gutenberg_issued: '2011-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37352'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Love stories'
+- !lcsh 'Daphnis (Greek mythology) -- Fiction'
+- !lcsh 'Fantasy fiction'
+title: Δάφνης και Χλόη
+url: http://www.gutenberg.org/ebooks/37352
